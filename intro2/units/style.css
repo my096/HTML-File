@@ -1,0 +1,36 @@
+body{
+    background-color: aquamarine;
+}
+.box{
+    background-color: black;
+    height: 80%;
+    width: 80%;
+    padding: 40px;
+}
+.box2{
+    background-color: red;
+    height: 70%;
+    width: 70%;
+    padding: 20px;
+}
+.box3{
+    background-color: azure;
+    height: 60%;
+    width: 60%;
+}
+.vwbox{
+    height: 20vw;
+    width: 20vw;
+    background-color: black;
+}
+.vhbox{
+    height: 20vh;
+    width: 20vh;
+    background-color: azure;
+    margin: 20px;
+}
+.inbox{
+    height: 10vw;
+    background-color: brown;
+    width: 10vw;
+}

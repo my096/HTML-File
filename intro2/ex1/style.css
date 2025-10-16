@@ -1,0 +1,21 @@
+#box1{
+    background-color: #87bfff;
+    height: 400px;
+    width: 400px;
+    padding: 40px;
+    border-radius: 5px;
+
+}
+#imgContainer{
+    text-align: center;
+}
+li{
+    color: white;
+    
+}
+h2{
+    text-align: center;
+}
+#innerBox{
+    text-align: center;
+}
